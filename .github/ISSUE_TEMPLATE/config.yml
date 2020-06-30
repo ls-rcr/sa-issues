@@ -2,7 +2,7 @@ blank_issues_enabled: false
 contact_links:
   - name: Discord Support Channel
     url: https://discord.com/channels/231871570128142336/518515462028656650
-    about: Please ask your questions here. This is the #support channel.
+    about: Please ask your questions here. This is the support channel.
   - name: Markdown Cheat Sheet
     url: https://www.markdownguide.org/cheat-sheet
     about: Your posts here are on Markdown. Use this as a learning tool/reference.
